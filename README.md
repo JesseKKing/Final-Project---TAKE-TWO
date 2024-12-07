@@ -16,8 +16,8 @@ The notebook performs the following analyses:
 2. Calculating the statewide vacancy and occupancy rate for nursing home beds.
 3. Narrowing down the data to focus on specific counties in the Hudson Valley.
 4. Using groupby to create a pivot table and add up the number of available / total beds per county. Add columns with calculations for the vacancy and occupancy rates to the pivot table.
-5. Create a cleaned-up dataframe with the Hudson Valley vacancy / occupancy rates, and tack on the statewide calculations at the end. 
-6. Export dataframe to .csv.
+5. Creating a cleaned-up dataframe with the Hudson Valley vacancy / occupancy rates, and tack on the statewide calculations at the end. 
+6. Exporting dataframe to .csv.
 
 ## Outputs
 The notebook outputs this spreadsheet, which includes location, vacancy rates, and occupancy rates: [HV_Nursing_Home_Vacancies.csv](https://github.com/user-attachments/files/18046063/HV_Nursing_Home_Vacancies.csv)
